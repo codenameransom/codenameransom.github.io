@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "***What took me so long ?***"
-date:       2020-08-25 22:52:00 +0000
+title:      "What took me so long ?"
+date:       2020-08-25 18:52:01 -0400
 permalink:  what_took_me_so_long
 ---
 
