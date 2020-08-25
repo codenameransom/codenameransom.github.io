@@ -1,11 +1,11 @@
 # Site settings
 author: Joshua Collins Roque
-title: 
+title: Why i decided to do Software Engineering
 header-img: img/home-bg.png
 email: codejoshuaroque@gmail.com
 copyright_name: Joshua Collins Roque
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A long short story
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  codenameransom
